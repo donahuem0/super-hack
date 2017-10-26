@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 
+ Print "Hello, World!"; 
 
 <?php 
   if ( have_posts() ):
