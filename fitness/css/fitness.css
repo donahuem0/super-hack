@@ -1,0 +1,174 @@
+/* Home Page Brand ***************************************/
+.site-brand{
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.stripe{
+  background-color:#9abadb;
+  margin-top: -75px;
+  height:50px;
+  margin-bottom:50px;
+}
+
+/* Primary Nav ********************************************/
+.navbar {
+  z-index: 9999;
+  border-width: 0px !important;
+}
+
+.navbar-default{
+  background-color: white !important;
+  font-size: 20px;
+}
+
+.navbar-nav{
+  font-family: "PT Sans"; 
+  background-color:#fff;
+}
+
+.navbar{
+  -webkit-box-shadow: 0px 5px 5px 2px rgba(0,0,0,0.2);
+  -moz-box-shadow: 0px 5px 5px 2px rgba(0,0,0,0.2);
+  box-shadow: 0px 5px 5px 2px rgba(0,0,0,0.2);
+  -moz-border-radius: 0px 0px 0px 0px;
+  -webkit-border-radius: 0px 0px 0px 0px;
+  border-radius: 0px 0px 0px 0px;
+  margin:0;
+}
+
+nav a{
+  color: #7a211b !important;
+}
+
+.active>a,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-nav a:hover,
+.dropdown-menu>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-nav a:focus,
+.dropdown-menu>li>a:focus,
+.navbar-default .navbar-nav>.active>a{ 
+  color: white !important;   
+  background-color: #954d49 !important;
+}
+
+ul.nav{
+  margin-top: 0;
+}
+
+/* Nav Bar Toggle **************************************/
+.navbar-header{
+  margin:auto;
+}
+
+.hamburger, #active-page{
+  display:inline-block;
+}
+
+#active-page{
+  margin-left: 20px;
+  color:#fff;
+}
+
+.navbar-toggle{
+  float:none;
+  margin:0;
+  width:100%;
+  border-width:0;
+  height:50px;
+  border-radius:0;
+  text-align: left;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color:#fff;
+  
+}
+
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle{
+  background-color:#7a211b;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+  background-color:#954d49;
+}
+
+/* Body Styles ******************************************/
+body{ 
+  font-family: 'PT Sans', sans-serif;
+  color: black;   
+  font-size: 20px;
+}
+
+.tagline{
+  margin-left: 20px;
+  font-family: "Special Elite";
+  color: #7a211b;
+  margin-top:40px;
+}
+
+/* Footer ************************************************/
+footer a:hover, footer a:focus{
+  text-decoration: none;
+}
+
+footer{
+  margin-top: 20px;
+  height:50px;
+
+}
+
+/* Sticky Footer Styles ********************************
+html { 
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  padding-top:15px;
+}
+*/
+
+/* General Appearance Settings ***************************/
+h1, h2, h3{
+  font-family: 'Special Elite', cursive;
+  color: #7a211b;
+}
+
+#fitnews{
+  padding:10px;
+  border:solid 1px #ccc;
+  border-radius:6px;
+  color:#999;
+}
+
+.post-title-link{
+  margin-bottom: 0;
+}
+
+/* 
+Colors: 
+--------------------------
+#ffcc33 - Yellow
+#7a211b - Dark Maroon
+#954d49 - Light Maroon
+#748ca4 - Dark Blue
+#748ca4 - Light Blue
+
+Fonts:
+---------------------------
+font-family: 'Special Elite', cursive;
+font-family: 'PT Sans', sans-serif;
+*/
+
+
