@@ -3,12 +3,14 @@
   margin-top: 20px;
   margin-left: 10px;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .stripe{
   background-color:#9abadb;
   margin-top: -75px;
   height:50px;
+  width:10px;
   margin-bottom:50px;
 }
 
